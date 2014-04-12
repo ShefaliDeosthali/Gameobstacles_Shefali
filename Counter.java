@@ -1,6 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 import java.awt.Color;
-
+//this is to test GitHub
 /**
  * A simple counter with graphical representation as an actor on screen.
  * 
